@@ -1,7 +1,7 @@
 
-# 🚘 Optimizing Autonomous Vehicle Mobility for Flexible and Adaptive Public Transport
+# Optimizing Autonomous Vehicle Mobility for Flexible and Adaptive Public Transport
 
-## 📌 Context
+## Context
 
 The rise of **autonomous vehicles** and **vehicular networks (VANETs)** is deeply transforming urban mobility. With increasing traffic and the need for smoother transportation, **Intelligent Transportation Systems (ITS)** aim to enhance safety, reliability, and adaptability of mobility.
 
