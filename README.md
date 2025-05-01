@@ -63,7 +63,7 @@ Two main approaches:
 - Evaluation through probabilistic connectivity metrics.
 
 
-## 🔭 Future Work
+## Future Work
 
 - Integration of advanced models: **CNNs, LSTM,autoencoders**.
 - Development of a real-time embedded system in vehicles.
